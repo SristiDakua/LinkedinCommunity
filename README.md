@@ -4,9 +4,11 @@ A modern, full-stack professional networking platform built with React, TypeScri
 
 ## 🚀 Live Demo
 
-**GitHub Repository**: [https://github.com/SristiDakua/LinkedinCommunity](https://github.com/SristiDakua/LinkedinCommunity)
+**🌐 Live Application**: [https://linkedin-community-beta.vercel.app/](https://linkedin-community-beta.vercel.app/)
 
-[View Live Application](https://your-vercel-deployment-url.vercel.app) *(Deploy from GitHub to get live URL)*
+**📂 GitHub Repository**: [https://github.com/SristiDakua/LinkedinCommunity](https://github.com/SristiDakua/LinkedinCommunity)
+
+*Note: Currently running with mock data. For full backend functionality, deploy the backend to Render/Railway.*
 
 ## ✨ Features
 

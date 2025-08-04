@@ -12,8 +12,8 @@
 ## 🔗 Links
 
 ### 🌐 Live Demo
-- **Frontend**: [Deploy from GitHub to Vercel](https://vercel.com/new) 
-- **Backend API**: [Deploy from GitHub to Render](https://render.com)
+- **Frontend**: [https://linkedin-community-beta.vercel.app/](https://linkedin-community-beta.vercel.app/)
+- **Backend API**: *Working with mock data (backend deployment optional)*
 
 ### 📂 GitHub Repository
 - **Main Repository**: [https://github.com/SristiDakua/LinkedinCommunity](https://github.com/SristiDakua/LinkedinCommunity)
