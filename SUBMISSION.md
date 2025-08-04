@@ -147,17 +147,20 @@ Password: john123
 1. Connect GitHub repository to Vercel
 2. Set build command: `npm run build`
 3. Set output directory: `dist`
-4. Deploy automatically on git push
+4. **Add Environment Variable:**
+   - **Name:** `VITE_API_URL`
+   - **Value:** `https://your-backend-url.onrender.com/api`
+5. Deploy automatically on git push
 
 ### Backend (Render/Railway)
 1. Connect GitHub repository
 2. Set build command: `cd backend && npm install && npm run build`
 3. Set start command: `cd backend && npm start`
 4. Set environment variables:
-   - `MONGODB_URI`
-   - `JWT_SECRET`
+   - `MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/professionalnetwork`
+   - `JWT_SECRET=your-production-jwt-secret`
    - `NODE_ENV=production`
-   - `CLIENT_URL_PROD`
+   - `CLIENT_URL=https://your-vercel-app.vercel.app`
 
 ### Database (MongoDB Atlas)
 1. Create MongoDB Atlas cluster
