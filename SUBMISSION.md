@@ -3,18 +3,20 @@
 ## 📋 Project Overview
 
 **Project Name**: Professional Network - LinkedIn-Style Community Platform  
-**Developer**: [Your Name]  
+**Developer**: Sristi Dakua  
+**GitHub**: SristiDakua  
+**Repository**: LinkedinCommunity  
 **Submission Date**: August 4, 2025  
 **Status**: ✅ COMPLETED & READY FOR DEPLOYMENT
 
 ## 🔗 Links
 
 ### 🌐 Live Demo
-- **Frontend**: [https://your-vercel-app.vercel.app](https://your-vercel-app.vercel.app)
-- **Backend API**: [https://your-backend-app.onrender.com](https://your-backend-app.onrender.com)
+- **Frontend**: [Deploy from GitHub to Vercel](https://vercel.com/new) 
+- **Backend API**: [Deploy from GitHub to Render](https://render.com)
 
 ### 📂 GitHub Repository
-- **Main Repository**: [https://github.com/yourusername/linkedin-community](https://github.com/yourusername/linkedin-community)
+- **Main Repository**: [https://github.com/SristiDakua/LinkedinCommunity](https://github.com/SristiDakua/LinkedinCommunity)
 
 ## ✅ Requirements Fulfillment
 
@@ -114,8 +116,8 @@ Password: john123
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/linkedin-community
-   cd linkedin-community
+   git clone https://github.com/SristiDakua/LinkedinCommunity
+   cd LinkedinCommunity
    ```
 
 2. **Backend Setup**
@@ -210,10 +212,9 @@ Password: john123
 
 ## 📞 Contact Information
 
-**Developer**: [Your Name]  
-**Email**: [your.email@example.com]  
-**GitHub**: [https://github.com/yourusername](https://github.com/yourusername)  
-**LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Developer**: Sristi Dakua  
+**GitHub**: [https://github.com/SristiDakua](https://github.com/SristiDakua)  
+**Repository**: [https://github.com/SristiDakua/LinkedinCommunity](https://github.com/SristiDakua/LinkedinCommunity)
 
 ---
 
